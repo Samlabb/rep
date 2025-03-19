@@ -1,2 +1,2 @@
 # rep
-rep-for-learn
+rep-for-learning
